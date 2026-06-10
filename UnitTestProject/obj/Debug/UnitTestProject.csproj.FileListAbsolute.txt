@@ -1,0 +1,38 @@
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\ClassLibrary.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\ClassLibrary.pdb
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\ClassLibrary.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\ClassLibrary.pdb
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\projects\zd3_Savitsin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\projects\zd3_Savitsin\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+D:\projects\zd3_Savitsin\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\projects\zd3_Savitsin\UnitTestProject\obj\Debug\UnitTest.294DD5B1.Up2Date
+D:\projects\zd3_Savitsin\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\projects\zd3_Savitsin\UnitTestProject\obj\Debug\UnitTestProject.pdb

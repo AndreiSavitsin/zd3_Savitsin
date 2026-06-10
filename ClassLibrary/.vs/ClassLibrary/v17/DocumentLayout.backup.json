@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\zd3_Savitsin\\ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEED03A-0ED3-4717-AF59-BAA9BC6FCF9E}|ClassLibrary.csproj|d:\\projects\\zd3_savitsin\\classlibrary\\roadworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEED03A-0ED3-4717-AF59-BAA9BC6FCF9E}|ClassLibrary.csproj|solutionrelative:roadworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEED03A-0ED3-4717-AF59-BAA9BC6FCF9E}|ClassLibrary.csproj|d:\\projects\\zd3_savitsin\\classlibrary\\roadcalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEED03A-0ED3-4717-AF59-BAA9BC6FCF9E}|ClassLibrary.csproj|solutionrelative:roadcalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E209A0D9-B692-42C5-AC45-C6A48CEE9F02}|..\\zd3_Savitsin_WPF\\zd3_Savitsin_WPF.csproj|d:\\projects\\zd3_savitsin\\zd3_savitsin_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F419219D-7B1F-42AC-9E98-D628B55299C2}|..\\UnitTestProject\\UnitTestProject.csproj|d:\\projects\\zd3_savitsin\\unittestproject\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E209A0D9-B692-42C5-AC45-C6A48CEE9F02}|..\\zd3_Savitsin_WPF\\zd3_Savitsin_WPF.csproj|d:\\projects\\zd3_savitsin\\zd3_savitsin_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "D:\\projects\\zd3_Savitsin\\UnitTestProject\\UnitTest.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProject\\UnitTest.cs",
+              "ToolTip": "D:\\projects\\zd3_Savitsin\\UnitTestProject\\UnitTest.cs",
+              "RelativeToolTip": "..\\UnitTestProject\\UnitTest.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T14:36:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Roadworks.cs",
+              "DocumentMoniker": "D:\\projects\\zd3_Savitsin\\ClassLibrary\\Roadworks.cs",
+              "RelativeDocumentMoniker": "Roadworks.cs",
+              "ToolTip": "D:\\projects\\zd3_Savitsin\\ClassLibrary\\Roadworks.cs",
+              "RelativeToolTip": "Roadworks.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T14:36:44.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoadCalculations.cs",
+              "DocumentMoniker": "D:\\projects\\zd3_Savitsin\\ClassLibrary\\RoadCalculations.cs",
+              "RelativeDocumentMoniker": "RoadCalculations.cs",
+              "ToolTip": "D:\\projects\\zd3_Savitsin\\ClassLibrary\\RoadCalculations.cs",
+              "RelativeToolTip": "RoadCalculations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T14:36:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\projects\\zd3_Savitsin\\zd3_Savitsin_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\zd3_Savitsin_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\projects\\zd3_Savitsin\\zd3_Savitsin_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\zd3_Savitsin_WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T14:36:59.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\projects\\zd3_Savitsin\\zd3_Savitsin_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\zd3_Savitsin_WPF\\MainWindow.xaml",
+              "ToolTip": "D:\\projects\\zd3_Savitsin\\zd3_Savitsin_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\zd3_Savitsin_WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-10T14:36:51.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

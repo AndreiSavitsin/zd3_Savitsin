@@ -1,0 +1,36 @@
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\bin\Debug\zd3_Savitsin_WPF.exe.config
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\bin\Debug\zd3_Savitsin_WPF.exe
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\bin\Debug\zd3_Savitsin_WPF.pdb
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\bin\Debug\ClassLibrary.dll
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\bin\Debug\ClassLibrary.pdb
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\App.g.cs
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF_MarkupCompile.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF_MarkupCompile.lref
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\MainWindow.baml
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.g.resources
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.Properties.Resources.resources
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.csproj.CopyComplete
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.exe
+C:\Users\305-8\Desktop\Савицин ПР-21\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.pdb
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.csproj.AssemblyReference.cache
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\MainWindow.g.cs
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\App.g.cs
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF_MarkupCompile.cache
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF_MarkupCompile.lref
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.exe
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.pdb
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\bin\Debug\zd3_Savitsin_WPF.exe.config
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\bin\Debug\zd3_Savitsin_WPF.exe
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\bin\Debug\zd3_Savitsin_WPF.pdb
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\bin\Debug\ClassLibrary.dll
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\bin\Debug\ClassLibrary.pdb
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\MainWindow.baml
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.g.resources
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.Properties.Resources.resources
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.csproj.GenerateResource.cache
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savitsin_WPF.csproj.CoreCompileInputs.cache
+D:\projects\zd3_Savitsin\zd3_Savitsin_WPF\obj\Debug\zd3_Savi.EC904C77.Up2Date
